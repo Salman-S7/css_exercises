@@ -1,0 +1,27 @@
+.samm,
+.sal{
+
+    background-color: lightpink;
+    font-family: Verdana, sans-serif;
+
+}
+
+
+
+.sal{
+    font-size: 24px;
+
+}
+
+#light{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: 700;
+
+}
+
+#man{
+    color: blue;
+    font-size: 36px;
+    
+}
